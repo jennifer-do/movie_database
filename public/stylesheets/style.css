@@ -1,0 +1,30 @@
+body {
+    background-color: gainsboro;
+    color: #660000
+}
+h1 {
+    text-align: center
+}
+.movie {
+    border-bottom: 2px dotted #452121;
+    padding: 10px;
+    text-align: center;
+    list-style-type: none
+}
+.movie p {
+    padding: 0;
+    margin: 0
+}
+.movie ul {
+    margin: 0
+}
+.movie li {
+    display: inline;
+    padding-right: 6px
+}
+nav a {
+    padding: 10px;
+    background-color: #452121;
+    color: #D0D0D0;
+    text-decoration: none;
+}
